@@ -5,6 +5,8 @@ __pycache__/
 
 #files like environemnt and data 
 Helmet_detection/
+artifacts/
+logs/
 
 # C extensions
 *.so
